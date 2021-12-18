@@ -1,4 +1,4 @@
-# 
+# Automatic-Trading
 
 自動売買に向けた勉強リポジトリです。
 
