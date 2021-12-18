@@ -33,13 +33,13 @@
 
 ## 環境構築
 
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/Automatic-Trading）
 
 ```
-cd Desktop/python-template-repository
+cd Desktop/Automatic-Trading
 ```
 
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+- Dockerによる環境構築（フォルダをマウント：Desktop/Automatic-Trading）
 
 ```
 docker-compose up --build
